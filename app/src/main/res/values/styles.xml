@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="BotonesOpera">
+        <item name="android:textSize">35sp</item>
+        <item name="android:minHeight">85dp</item>
+        <item name="android:textColor">@color/colorbtntxt</item>
+        <item name="android:drawable">@drawable/botones</item>
+    </style>
+
+    <style name="BotonesNumericos">
+        <item name="android:textSize">35sp</item>
+        <item name="android:minHeight">85dp</item>
+        <item name="android:textColor">@color/colorbtntxt</item>
+    </style>
+</resources>
