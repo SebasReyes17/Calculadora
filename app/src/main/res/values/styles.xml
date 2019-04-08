@@ -8,15 +8,23 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="BotonesOpera">
-        <item name="android:textSize">35sp</item>
-        <item name="android:minHeight">85dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">80dp</item>
         <item name="android:textColor">@color/colorbtntxt</item>
-        <item name="android:drawable">@drawable/botones</item>
+        <item name="android:background">@drawable/botones</item>
     </style>
 
     <style name="BotonesNumericos">
-        <item name="android:textSize">35sp</item>
-        <item name="android:minHeight">85dp</item>
-        <item name="android:textColor">@color/colorbtntxt</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">80dp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:background">@drawable/botones</item>
+    </style>
+
+    <style name="BotonesClean">
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">80dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/botones_otro_color</item>
     </style>
 </resources>

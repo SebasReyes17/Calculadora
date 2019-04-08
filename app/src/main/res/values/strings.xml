@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="titulo_menuop_Acerca">Acerca de </string>
+    <string name="txt_Acerca_de">Realizada por Reyes Flores Sebastián el 24/03/2019</string>
 </resources>
